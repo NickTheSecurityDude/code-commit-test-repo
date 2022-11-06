@@ -2,8 +2,8 @@
 
 define( 'AS3CF_SETTINGS', serialize( array(
     'provider' => 'aws',
-    'access-key-id' => '<REDACTED>',
-    'secret-access-key' => '<REDACTED>',
+    'access-key-id' => 'AKIASAKOZUALZXVVEFBO',
+    'secret-access-key' => 'sdH6HLpYmgLspWOdHELLOr3Yz9UkL+IKfH/D7eMQ',
 ) ) );
 
 /**
